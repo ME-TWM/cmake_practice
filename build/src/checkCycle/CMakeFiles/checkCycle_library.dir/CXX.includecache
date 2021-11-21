@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/checkCycle/../../include/checkCycle.h
+digraphpr.h
+../src/checkCycle/../../include/digraphpr.h
+common.h
+../src/checkCycle/../../include/common.h
+
+../src/checkCycle/../../include/common.h
+iostream
+-
+fstream
+-
+map
+-
+set
+-
+vector
+-
+queue
+-
+stack
+-
+algorithm
+-
+
+../src/checkCycle/../../include/digraphpr.h
+common.h
+../src/checkCycle/../../include/common.h
+
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/src/checkCycle/checkCycle.cpp
+checkCycle.h
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/src/checkCycle/checkCycle.h
+

@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/depthFirstOrder/../../include/common.h
+iostream
+-
+fstream
+-
+map
+-
+set
+-
+vector
+-
+queue
+-
+stack
+-
+algorithm
+-
+
+../src/depthFirstOrder/../../include/depthFirstOrder.h
+digraphpr.h
+../src/depthFirstOrder/../../include/digraphpr.h
+common.h
+../src/depthFirstOrder/../../include/common.h
+
+../src/depthFirstOrder/../../include/digraphpr.h
+common.h
+../src/depthFirstOrder/../../include/common.h
+
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/src/depthFirstOrder/depthFirstOrder.cpp
+depthFirstOrder.h
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/src/depthFirstOrder/depthFirstOrder.h
+

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/digraphpr/../../include/common.h
+iostream
+-
+fstream
+-
+map
+-
+set
+-
+vector
+-
+queue
+-
+stack
+-
+algorithm
+-
+
+../src/digraphpr/../../include/digraphpr.h
+common.h
+../src/digraphpr/../../include/common.h
+
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/src/digraphpr/digraphpr.cpp
+digraphpr.h
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/src/digraphpr/digraphpr.h
+

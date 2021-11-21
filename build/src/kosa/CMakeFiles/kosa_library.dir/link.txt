@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libkkkosa.so -o libkkkosa.so CMakeFiles/kosa_library.dir/kosa.cpp.o CMakeFiles/kosa_library.dir/__/depthFirstOrder/depthFirstOrder.cpp.o 

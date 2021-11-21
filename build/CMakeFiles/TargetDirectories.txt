@@ -1,0 +1,15 @@
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/CMakeFiles/rebuild_cache.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/CMakeFiles/practice.exe.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/CMakeFiles/edit_cache.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/src/digraphpr/CMakeFiles/rebuild_cache.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/src/digraphpr/CMakeFiles/digraphpr_library.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/src/digraphpr/CMakeFiles/edit_cache.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/src/checkCycle/CMakeFiles/rebuild_cache.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/src/checkCycle/CMakeFiles/checkCycle_library.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/src/checkCycle/CMakeFiles/edit_cache.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/src/depthFirstOrder/CMakeFiles/rebuild_cache.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/src/depthFirstOrder/CMakeFiles/depthFirstOrder.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/src/depthFirstOrder/CMakeFiles/edit_cache.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/src/kosa/CMakeFiles/rebuild_cache.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/src/kosa/CMakeFiles/kosa_library.dir
+/home/tanweimin/code/program_practice/ALGORITHM/sort/pt/build/src/kosa/CMakeFiles/edit_cache.dir
